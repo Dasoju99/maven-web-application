@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center">Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios </h1>
+<h1 align="center">Dasoju Rajesh </h1>
+<h1 align="center">8074111890</h1>
 <h1 align="center"> Maven-Web-Application file is Deployed by integrating Jenkins with Docker on 24'Dec-2021</h1>
 <hr>
 <br>
@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/mithunlogo.jpg" alt="" width="1000">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
